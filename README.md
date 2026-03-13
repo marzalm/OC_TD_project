@@ -1,10 +1,10 @@
 # OC_TD_project
 ## Brainstorming of ideas
 ### Openclaw in a dedicated machine with Ollama (free)
+The main requirement here is a dedicated machine, either a VPS server or a notebook powerful enough to run Ollama
 #### Ghost radio 
 Creation of an AI radio station that continuously broadcasts fictional programmes based on current world events or a specific topic.
 Requirements:
-- Dedicated machine: either a VPS server or a notebook powerful enough to run Ollama
 - Voice generation AI
 - Broadcasting platform
 - Ideas Neloutch ?
