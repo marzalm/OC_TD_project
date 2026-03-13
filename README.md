@@ -1,40 +1,39 @@
-# OC_TD_project
-## Brainstorming of ideas
-### Openclaw in a dedicated machine with Ollama (free)
-The main requirement here is a dedicated machine, either a VPS server or a notebook powerful enough to run Ollama
-#### Ghost radio 
-Creation of an AI radio station that continuously broadcasts fictional programmes based on current world events or a specific topic.
-Requirements:
-- Voice generation AI
-- Broadcasting platform
-- Ideas Neloutch ?
-- Bonus : TD interface ? As an old radio ?
+### Openclaw sur une machine dédiée avec Ollama (gratuit)
+La principale exigence ici est d'avoir une machine dédiée; un serveur VPS ou un ordinateur portable suffisamment puissant pour faire tourner Ollama
+#### Ghost radio
+Création d'une station de radio IA qui diffuse en continu des émissions fictives basées sur l'actualité mondiale ou un thème spécifique.
+Exigences :
+- IA de génération vocale
+- Plateforme de diffusion
+- Des idées Neloutch ?
+- Bonus : interface TD ? Comme une vieille radio ?
 
-#### The negociator
-A sensor above the toilet door (for example) detects when someone is there, which activates the AI, which asks a silly question on a current topic. If the person answers ‘correctly’, it unlocks the door; otherwise, it teases the person and makes them wait. The model has a memory and uses what it knows from past interactions to adjust the riddles and be funny.
-Requirements:
-- Sensor
-- AI voice generator
-- AI voice detector
-- Robotic lock
+#### Le négociateur
+Un capteur placé au-dessus de la porte des toilettes (par exemple) détecte la présence d'une personne, ce qui active l'IA, qui pose une question idiote sur un sujet d'actualité. Si la personne répond « correctement », la porte se déverrouille ; sinon, l'IA la vanne et la fait attendre. Le modèle dispose d'une mémoire et utilise ce qu'il a appris lors d'interactions passées pour adapter ses devinettes et être drôle.
+Exigences :
+- Capteur
+- Générateur de voix IA
+- Détecteur de voix IA
+- Serrure robotisée
 
-#### AI job scraper
-An autonomous model scrapes every morning or 2-3 times a day for jobs in a specific geographical area according to a certain job type. It automatically prepares and/or sends CVs and cover letters.
 
-vs
+#### Job scraper
+Un modèle autonome extrait chaque matin ou 2 à 3 fois par jour les offres d'emploi dans une zone géographique spécifique, en fonction d'un certain type de poste. Il prépare et/ou envoie automatiquement des CV et des lettres de motivation.
 
-An autonomous model that scrapes jobs every morning or 2-3 times a day in a specific geographical area (e.g. Geneva) and creates interactive dashboards on the most sought after fields and the most filled jobs. The idea is to centralise job offers from all relevant sites and compile statistics.
+ou
 
-Requirements:
+Un modèle autonome qui collecte chaque matin ou 2 à 3 fois par jour les offres d'emploi dans une zone géographique spécifique (par exemple Genève) et crée des tableaux de bord interactifs sur les domaines les plus recherchés et les postes les plus pourvus. L'idée est de centraliser les offres d'emploi provenant de tous les sites pertinents et de compiler des statistiques. (ex : description du profil le plus attractif dans le marché de l'emploi).
+
+Exigences :
 - Web scraper
-- React for web app
+- React pour l'application web
 
 
 #### Tamedia antifa troll
-The model is an antifa who trolls the TdG website (for example) and responds to racist, homophobic and fascist comments by deliberately provoking them. the model would create different accounts to make the comments.
+Le modèle est un antifa qui troll le site web du TdG (par exemple) et répond aux commentaires racistes, homophobes et fascistes en les provoquant exprès. Le modèle créerait différents comptes pour publier ces commentaires.
 
-Requirements:
-- Junk emails for the accounts that would be accepted by the website
+Exigences :
+- Des adresses e-mail jetables pour les comptes qui seraient acceptées par le site web
 
 
 
